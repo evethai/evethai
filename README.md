@@ -1,6 +1,6 @@
 # 💫About Me :
 - 👋 Hi, I’m Thai Nguyen
-- 👀 I’m interested Java
+- 👀 I’m interested code
 - 🌱 I’m currently learning software engineering at FPT University campus HCM
 - 📫 Contact me via thainguyendcs@gmail.com
 
