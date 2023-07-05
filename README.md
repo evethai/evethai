@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Thai Nguyen
 - 👀 I’m interested code
 - 🌱 I’m currently learning software engineering at FPT University campus HCM
-- 📫 Contact me via thainguyendcs@gmail.com
+- 📫 Contact me via thaidoiteve@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Thainguyen.1412) 
